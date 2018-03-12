@@ -33,6 +33,26 @@
     </item>
     
     <item>
+      <title>Max-norm regularized Matrix-factorization (Projected SGD)</title>
+      <link>/project/maxnorm/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/maxnorm/</guid>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;This is a simplified implementation of:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;LEE, Jason D., et al. Practical large-scale optimization for max-norm regularization. In: Advances in Neural Information Processing Systems. 2010. S. 1297-1305.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More information is available at the project-page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>pylinassignment</title>
       <link>/project/pylinassignment/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
