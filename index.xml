@@ -33,6 +33,26 @@
     </item>
     
     <item>
+      <title>Max-norm regularized Matrix-factorization (Projected SGD) / C&#43;&#43;/Eigen</title>
+      <link>/project/maxnorm_eigen/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/maxnorm_eigen/</guid>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;This is a prototype implementation of:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;LEE, Jason D., et al. Practical large-scale optimization for max-norm regularization. In: Advances in Neural Information Processing Systems. 2010. S. 1297-1305.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More information is available at the project-page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Max-norm regularized Matrix-factorization (Projected SGD)</title>
       <link>/project/maxnorm/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
@@ -201,9 +221,13 @@ serve as additional documentation/example for the usage of &lt;a href=&#34;https
 
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 
-&lt;p&gt;I contributed an interface for CoinOR&amp;rsquo;s &lt;a href=&#34;https://projects.coin-or.org/Cbc&#34; target=&#34;_blank&#34;&gt;Cbc MIP-solver&lt;/a&gt; (based on &lt;a href=&#34;https://github.com/coin-or/CyLP&#34; target=&#34;_blank&#34;&gt;cylp&lt;/a&gt;) including examples, tests and continuous-integration scripts. This was merged into master and the upcoming 1.0 will have some changes (already merged).&lt;/p&gt;
+&lt;p&gt;There are two unrelated things i worked on:&lt;/p&gt;
 
-&lt;p&gt;Additionally, there is an unmerged &lt;a href=&#34;https://github.com/cvxgrp/cvxpy/pull/438&#34; target=&#34;_blank&#34;&gt;pull-request&lt;/a&gt; to integrate an MIQP-solver based on CoinOR&amp;rsquo;s &lt;a href=&#34;https://projects.coin-or.org/Bonmin&#34; target=&#34;_blank&#34;&gt;Bonmin&lt;/a&gt; and my project &lt;a href=&#34;https://github.com/sschnug/pyMIQP&#34; target=&#34;_blank&#34;&gt;pyMIQP&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I contributed an interface for CoinOR&amp;rsquo;s &lt;a href=&#34;https://projects.coin-or.org/Cbc&#34; target=&#34;_blank&#34;&gt;Cbc MIP-solver&lt;/a&gt; (based on &lt;a href=&#34;https://github.com/coin-or/CyLP&#34; target=&#34;_blank&#34;&gt;cylp&lt;/a&gt;) including examples, tests and continuous-integration scripts. This was merged into master and the upcoming 1.0 will have some changes (already merged).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Additionally, there is an (currently unmerged) &lt;a href=&#34;https://github.com/cvxgrp/cvxpy/pull/438&#34; target=&#34;_blank&#34;&gt;pull-request&lt;/a&gt; to integrate an MIQP-solver based on CoinOR&amp;rsquo;s &lt;a href=&#34;https://projects.coin-or.org/Bonmin&#34; target=&#34;_blank&#34;&gt;Bonmin&lt;/a&gt; and my project &lt;a href=&#34;https://github.com/sschnug/pyMIQP&#34; target=&#34;_blank&#34;&gt;pyMIQP&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -25,6 +25,17 @@ Interface There is a pull-request including a complete interface to be used with
     </item>
     
     <item>
+      <title>Max-norm regularized Matrix-factorization (Projected SGD) / C&#43;&#43;/Eigen</title>
+      <link>/project/maxnorm_eigen/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/maxnorm_eigen/</guid>
+      <description>Summary This is a prototype implementation of:
+ LEE, Jason D., et al. Practical large-scale optimization for max-norm regularization. In: Advances in Neural Information Processing Systems. 2010. S. 1297-1305.
+ More information is available at the project-page.</description>
+    </item>
+    
+    <item>
       <title>Max-norm regularized Matrix-factorization (Projected SGD)</title>
       <link>/project/maxnorm/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>

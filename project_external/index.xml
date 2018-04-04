@@ -18,8 +18,10 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project_external/cvxpy/</guid>
-      <description>Summary I contributed an interface for CoinOR&amp;rsquo;s Cbc MIP-solver (based on cylp) including examples, tests and continuous-integration scripts. This was merged into master and the upcoming 1.0 will have some changes (already merged).
-Additionally, there is an unmerged pull-request to integrate an MIQP-solver based on CoinOR&amp;rsquo;s Bonmin and my project pyMIQP.</description>
+      <description> Summary There are two unrelated things i worked on:
+ I contributed an interface for CoinOR&amp;rsquo;s Cbc MIP-solver (based on cylp) including examples, tests and continuous-integration scripts. This was merged into master and the upcoming 1.0 will have some changes (already merged).
+ Additionally, there is an (currently unmerged) pull-request to integrate an MIQP-solver based on CoinOR&amp;rsquo;s Bonmin and my project pyMIQP.
+  </description>
     </item>
     
   </channel>
